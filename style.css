@@ -1,0 +1,28 @@
+body{ 
+        background-color: rgb(209, 90, 90);
+    }
+
+.start{
+         text-align:center;
+         color: white;
+         
+}
+
+img{
+    width: 500px;
+    align-items: center;
+}
+
+.linhas{
+    color: white;
+}
+
+.linhe{
+    color: white;
+}
+
+.limpo{
+    color: white;
+}
+
+
